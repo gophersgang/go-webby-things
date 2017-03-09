@@ -56,6 +56,7 @@ The main purpose is reading / learning / teaching.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well <br/> ( 2017-01-04 / 184 commits / 436 stars )
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework <br/> ( 2017-03-08 / 1,037 commits / 567 stars )
 - [lunny/tango](https://github.com/lunny/tango) - Micro & pluggable web framework for Go <br/> ( 2017-03-09 / 201 commits / 74 stars )
+- [micro/micro](https://github.com/micro/micro) - A microservice toolkit for distributed systems development <br/> ( 2017-03-07 / 647 commits / 195 stars )
 - [mustafaakin/gongular](https://github.com/mustafaakin/gongular) - A different approach to Go web frameworks <br/> ( 2016-12-06 / 71 commits / 10 stars )
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times <br/> ( 2017-02-21 / 222 commits / 105 stars )
 - [paulbellamy/mango](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333. <br/> ( 2016-08-22 / 150 commits / 32 stars )
@@ -83,6 +84,7 @@ The main purpose is reading / learning / teaching.
 - [go-kit/kit](https://github.com/go-kit/kit): 2017-03-08 <br/> A standard library for microservices.
 - [labstack/echo](https://github.com/labstack/echo): 2017-03-08 <br/> High performance, minimalist Go web framework
 - [sheng/air](https://github.com/sheng/air): 2017-03-08 <br/> An ideal RESTful web framework for Go.
+- [micro/micro](https://github.com/micro/micro): 2017-03-07 <br/> A microservice toolkit for distributed systems development
 - [astaxie/beego](https://github.com/astaxie/beego): 2017-03-06 <br/> beego is an open-source, high-performance web framework for the Go programming language.
 - [go-gem/gem](https://github.com/go-gem/gem): 2017-03-03 <br/> Gem is an easy to use and high performance web framework written in Go(golang), support HTTP/2, and provides leveled logger and frequently used middlewares.
 - [revel/revel](https://github.com/revel/revel): 2017-03-01 <br/> A high productivity, full-stack web framework for the Go language.
@@ -146,6 +148,7 @@ The main purpose is reading / learning / teaching.
 - [labstack/echo](https://github.com/labstack/echo): 5.67 MB<br/>  (5.06 MB git / 0.60 MB code)
 - [astaxie/beego](https://github.com/astaxie/beego): 5.44 MB<br/>  (4.27 MB git / 1.17 MB code)
 - [pressly/chi](https://github.com/pressly/chi): 3.46 MB<br/>  (3.25 MB git / 0.21 MB code)
+- [micro/micro](https://github.com/micro/micro): 3.26 MB<br/>  (3.04 MB git / 0.22 MB code)
 - [revel/revel](https://github.com/revel/revel): 2.95 MB<br/>  (2.32 MB git / 0.63 MB code)
 - [go-zoo/bone](https://github.com/go-zoo/bone): 2.57 MB<br/>  (2.49 MB git / 0.07 MB code)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin): 1.83 MB<br/>  (1.41 MB git / 0.42 MB code)
