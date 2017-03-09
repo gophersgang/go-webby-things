@@ -57,6 +57,7 @@ The main purpose is reading / learning / teaching.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework <br/> ( 2017-03-08 / 1,037 commits / 567 stars )
 - [lunny/tango](https://github.com/lunny/tango) - Micro & pluggable web framework for Go <br/> ( 2017-03-09 / 201 commits / 74 stars )
 - [micro/go-micro](https://github.com/micro/go-micro) - A pluggable RPC framework for microservices <br/> ( 2017-02-25 / 602 commits / 146 stars )
+- [micro/go-plugins](https://github.com/micro/go-plugins) - Plugins for go-micro {registry, broker, codec, transport, ...} <br/> ( 2017-03-01 / 365 commits / 38 stars )
 - [micro/micro](https://github.com/micro/micro) - A microservice toolkit for distributed systems development <br/> ( 2017-03-07 / 647 commits / 195 stars )
 - [mustafaakin/gongular](https://github.com/mustafaakin/gongular) - A different approach to Go web frameworks <br/> ( 2016-12-06 / 71 commits / 10 stars )
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times <br/> ( 2017-02-21 / 222 commits / 105 stars )
@@ -89,6 +90,7 @@ The main purpose is reading / learning / teaching.
 - [astaxie/beego](https://github.com/astaxie/beego): 2017-03-06 <br/> beego is an open-source, high-performance web framework for the Go programming language.
 - [go-gem/gem](https://github.com/go-gem/gem): 2017-03-03 <br/> Gem is an easy to use and high performance web framework written in Go(golang), support HTTP/2, and provides leveled logger and frequently used middlewares.
 - [revel/revel](https://github.com/revel/revel): 2017-03-01 <br/> A high productivity, full-stack web framework for the Go language.
+- [micro/go-plugins](https://github.com/micro/go-plugins): 2017-03-01 <br/> Plugins for go-micro {registry, broker, codec, transport, ...}
 - [gorilla/mux](https://github.com/gorilla/mux): 2017-02-28 <br/> A powerful URL router and dispatcher for golang.
 - [claygod/bxog](https://github.com/claygod/bxog): 2017-02-28 <br/> Bxog is a simple and fast HTTP router for Go (HTTP request multiplexer).
 - [dimfeld/httptreemux](https://github.com/dimfeld/httptreemux): 2017-02-26 <br/> High-speed, flexible tree-based HTTP router for Go.
@@ -149,6 +151,7 @@ The main purpose is reading / learning / teaching.
 - [go-kit/kit](https://github.com/go-kit/kit): 6.01 MB<br/>  (5.38 MB git / 0.63 MB code)
 - [labstack/echo](https://github.com/labstack/echo): 5.67 MB<br/>  (5.06 MB git / 0.60 MB code)
 - [astaxie/beego](https://github.com/astaxie/beego): 5.44 MB<br/>  (4.27 MB git / 1.17 MB code)
+- [micro/go-plugins](https://github.com/micro/go-plugins): 3.62 MB<br/>  (2.84 MB git / 0.79 MB code)
 - [pressly/chi](https://github.com/pressly/chi): 3.46 MB<br/>  (3.25 MB git / 0.21 MB code)
 - [micro/micro](https://github.com/micro/micro): 3.26 MB<br/>  (3.04 MB git / 0.22 MB code)
 - [revel/revel](https://github.com/revel/revel): 2.95 MB<br/>  (2.32 MB git / 0.63 MB code)
