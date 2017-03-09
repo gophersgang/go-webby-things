@@ -54,6 +54,7 @@ The main purpose is reading / learning / teaching.
 - [jabong/florest-core](https://github.com/jabong/florest-core) - A high performance workflow based REST API framework <br/> ( 2017-01-31 / 89 commits / 8 stars )
 - [jcuga/golongpoll](https://github.com/jcuga/golongpoll) - golang long polling library.  Makes web pub-sub easy via HTTP long-poll server :smiley: :coffee: :computer: <br/> ( 2016-08-21 / 66 commits / 20 stars )
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well <br/> ( 2017-01-04 / 184 commits / 436 stars )
+- [koding/kite](https://github.com/koding/kite) - Micro-service framework in Go <br/> ( 2017-01-30 / 1,778 commits / 90 stars )
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework <br/> ( 2017-03-08 / 1,037 commits / 567 stars )
 - [lunny/tango](https://github.com/lunny/tango) - Micro & pluggable web framework for Go <br/> ( 2017-03-09 / 201 commits / 74 stars )
 - [micro/go-micro](https://github.com/micro/go-micro) - A pluggable RPC framework for microservices <br/> ( 2017-02-25 / 602 commits / 146 stars )
@@ -107,6 +108,7 @@ The main purpose is reading / learning / teaching.
 - [gernest/utron](https://github.com/gernest/utron): 2017-02-16 <br/> A lightweight MVC framework for Go(Golang)
 - [zpatrick/fireball](https://github.com/zpatrick/fireball): 2017-02-08 <br/> Web framework with a natural feel
 - [jabong/florest-core](https://github.com/jabong/florest-core): 2017-01-31 <br/> A high performance workflow based REST API framework
+- [koding/kite](https://github.com/koding/kite): 2017-01-30 <br/> Micro-service framework in Go
 - [husobee/vestigo](https://github.com/husobee/vestigo): 2017-01-27 <br/> Echo Inspired Stand Alone URL Router
 - [go-ozzo/ozzo-routing](https://github.com/go-ozzo/ozzo-routing): 2017-01-24 <br/> An extremely fast Go (golang) HTTP router that supports regular expression route matching. Comes with full support for building RESTful APIs.
 - [claygod/microservice](https://github.com/claygod/microservice): 2017-01-23 <br/> This library provides a simple framework of microservice, which includes a configurator, a logger, metrics, and of course the handler
@@ -151,6 +153,7 @@ The main purpose is reading / learning / teaching.
 - [go-kit/kit](https://github.com/go-kit/kit): 6.01 MB<br/>  (5.38 MB git / 0.63 MB code)
 - [labstack/echo](https://github.com/labstack/echo): 5.67 MB<br/>  (5.06 MB git / 0.60 MB code)
 - [astaxie/beego](https://github.com/astaxie/beego): 5.44 MB<br/>  (4.27 MB git / 1.17 MB code)
+- [koding/kite](https://github.com/koding/kite): 4.63 MB<br/>  (4.28 MB git / 0.35 MB code)
 - [micro/go-plugins](https://github.com/micro/go-plugins): 3.62 MB<br/>  (2.84 MB git / 0.79 MB code)
 - [pressly/chi](https://github.com/pressly/chi): 3.46 MB<br/>  (3.25 MB git / 0.21 MB code)
 - [micro/micro](https://github.com/micro/micro): 3.26 MB<br/>  (3.04 MB git / 0.22 MB code)
