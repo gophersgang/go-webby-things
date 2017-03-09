@@ -75,6 +75,13 @@ func check(err error) {
 		log.Fatal(err)
 	}
 }
+func checkMsg(e error, msg string) {
+	if e != nil {
+		log.Println(msg)
+		log.Println(e)
+		panic(e)
+	}
+}
 
 /*
 	readmeHandler logic
@@ -99,7 +106,7 @@ func (rh readmeHandler) replaceProjects(repos []repoInfo) {
 	r := regexp.MustCompile(pattern)
 
 	data, err := ioutil.ReadFile(readmeFile)
-	check(err)
+	checkMsg(err, readmeFile)
 	res := r.ReplaceAllString(string(data), strings.Join(lines, "\n"))
 	ioutil.WriteFile(readmeFile, []byte(res), 0777)
 }
@@ -204,7 +211,7 @@ func (r repoParser) getDoc(url string) *goquery.Document {
 
 func (r repoParser) urlDoc(url string) *goquery.Document {
 	doc, err := goquery.NewDocument(url)
-	check(err)
+	checkMsg(err, url)
 	return doc
 }
 
