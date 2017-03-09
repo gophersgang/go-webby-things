@@ -44,7 +44,6 @@ The main purpose is reading / learning / teaching.
 - [gocraft/web](https://github.com/gocraft/web) - Go Router + Middleware. Your Contexts. <br/> ( 2016-07-11 / 183 commits / 89 stars )
 - [goji/goji](https://github.com/goji/goji) - Goji is a minimalistic and flexible HTTP request multiplexer for Go (golang) <br/> ( 2016-11-14 / 51 commits / 25 stars )
 - [googollee/go-engine.io](https://github.com/googollee/go-engine.io) - engine.io for golang, a transport-based cross-browser/cross-device bi-directional communication layer. <br/> ( 2017-02-24 / 120 commits / 73 stars )
-- [googollee/go-socket.io](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework. <br/> ( 2016-08-11 / 148 commits / 236 stars )
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful URL router and dispatcher for golang. <br/> ( 2017-02-28 / 177 commits / 505 stars )
 - [husobee/vestigo](https://github.com/husobee/vestigo) - Echo Inspired Stand Alone URL Router <br/> ( 2017-01-27 / 111 commits / 18 stars )
 - [ian-kent/goose](https://github.com/ian-kent/goose) - Server-Sent Events in Go <br/> ( 2014-12-21 / 2 commits / 5 stars )
@@ -57,6 +56,7 @@ The main purpose is reading / learning / teaching.
 - [koding/kite](https://github.com/koding/kite) - Micro-service framework in Go <br/> ( 2017-01-30 / 1,778 commits / 90 stars )
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework <br/> ( 2017-03-08 / 1,037 commits / 567 stars )
 - [lunny/tango](https://github.com/lunny/tango) - Micro & pluggable web framework for Go <br/> ( 2017-03-09 / 201 commits / 74 stars )
+- [micro/examples](https://github.com/micro/examples) - How-to examples of micro. Feel free to contribute <br/> ( 2017-02-21 / 21 commits / 7 stars )
 - [micro/go-micro](https://github.com/micro/go-micro) - A pluggable RPC framework for microservices <br/> ( 2017-02-25 / 602 commits / 146 stars )
 - [micro/go-plugins](https://github.com/micro/go-plugins) - Plugins for go-micro {registry, broker, codec, transport, ...} <br/> ( 2017-03-01 / 365 commits / 38 stars )
 - [micro/micro](https://github.com/micro/micro) - A microservice toolkit for distributed systems development <br/> ( 2017-03-07 / 647 commits / 195 stars )
@@ -101,6 +101,7 @@ The main purpose is reading / learning / teaching.
 - [go-zoo/bone](https://github.com/go-zoo/bone): 2017-02-24 <br/> Lightning Fast HTTP Multiplexer
 - [dinever/golf](https://github.com/dinever/golf): 2017-02-24 <br/> :golf: The Golf web framework
 - [nytimes/gizmo](https://github.com/nytimes/gizmo): 2017-02-21 <br/> A Microservice Toolkit from The New York Times
+- [micro/examples](https://github.com/micro/examples): 2017-02-21 <br/> How-to examples of micro. Feel free to contribute
 - [rainycape/gondola](https://github.com/rainycape/gondola): 2017-02-20 <br/> The web framework for writing faster sites, faster
 - [ant0ine/go-json-rest](https://github.com/ant0ine/go-json-rest): 2017-02-19 <br/> A quick and easy way to setup a RESTful JSON API
 - [go-macaron/macaron](https://github.com/go-macaron/macaron): 2017-02-19 <br/> Package macaron is a high productive and modular web framework in Go.
@@ -129,7 +130,6 @@ The main purpose is reading / learning / teaching.
 - [paulbellamy/mango](https://github.com/paulbellamy/mango): 2016-08-22 <br/> Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.
 - [vividcortex/siesta](https://github.com/vividcortex/siesta): 2016-08-22 <br/> Composable framework for writing HTTP handlers in Go.
 - [jcuga/golongpoll](https://github.com/jcuga/golongpoll): 2016-08-21 <br/> golang long polling library.  Makes web pub-sub easy via HTTP long-poll server :smiley: :coffee: :computer:
-- [googollee/go-socket.io](https://github.com/googollee/go-socket.io): 2016-08-11 <br/> socket.io library for golang, a realtime application framework.
 - [gocraft/web](https://github.com/gocraft/web): 2016-07-11 <br/> Go Router + Middleware. Your Contexts.
 - [desertbit/glue](https://github.com/desertbit/glue): 2016-06-10 <br/> Glue - Robust Go and Javascript Socket Library (Alternative to Socket.io)
 - [rcrowley/go-tigertonic](https://github.com/rcrowley/go-tigertonic): 2016-06-04 <br/> A Go framework for building JSON web services inspired by Dropwizard
@@ -183,6 +183,7 @@ The main purpose is reading / learning / teaching.
 - [dinever/golf](https://github.com/dinever/golf): 0.35 MB<br/>  (0.24 MB git / 0.12 MB code)
 - [go-gem/gem](https://github.com/go-gem/gem): 0.35 MB<br/>  (0.25 MB git / 0.10 MB code)
 - [jcuga/golongpoll](https://github.com/jcuga/golongpoll): 0.34 MB<br/>  (0.16 MB git / 0.18 MB code)
+- [micro/examples](https://github.com/micro/examples): 0.33 MB<br/>  (0.12 MB git / 0.21 MB code)
 - [gocraft/web](https://github.com/gocraft/web): 0.33 MB<br/>  (0.22 MB git / 0.11 MB code)
 - [codehack/go-relax](https://github.com/codehack/go-relax): 0.33 MB<br/>  (0.20 MB git / 0.13 MB code)
 - [buaazp/fasthttprouter](https://github.com/buaazp/fasthttprouter): 0.30 MB<br/>  (0.21 MB git / 0.09 MB code)
