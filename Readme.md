@@ -56,6 +56,7 @@ The main purpose is reading / learning / teaching.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well <br/> ( 2017-01-04 / 184 commits / 436 stars )
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework <br/> ( 2017-03-08 / 1,037 commits / 567 stars )
 - [lunny/tango](https://github.com/lunny/tango) - Micro & pluggable web framework for Go <br/> ( 2017-03-09 / 201 commits / 74 stars )
+- [micro/go-micro](https://github.com/micro/go-micro) - A pluggable RPC framework for microservices <br/> ( 2017-02-25 / 602 commits / 146 stars )
 - [micro/micro](https://github.com/micro/micro) - A microservice toolkit for distributed systems development <br/> ( 2017-03-07 / 647 commits / 195 stars )
 - [mustafaakin/gongular](https://github.com/mustafaakin/gongular) - A different approach to Go web frameworks <br/> ( 2016-12-06 / 71 commits / 10 stars )
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times <br/> ( 2017-02-21 / 222 commits / 105 stars )
@@ -91,6 +92,7 @@ The main purpose is reading / learning / teaching.
 - [gorilla/mux](https://github.com/gorilla/mux): 2017-02-28 <br/> A powerful URL router and dispatcher for golang.
 - [claygod/bxog](https://github.com/claygod/bxog): 2017-02-28 <br/> Bxog is a simple and fast HTTP router for Go (HTTP request multiplexer).
 - [dimfeld/httptreemux](https://github.com/dimfeld/httptreemux): 2017-02-26 <br/> High-speed, flexible tree-based HTTP router for Go.
+- [micro/go-micro](https://github.com/micro/go-micro): 2017-02-25 <br/> A pluggable RPC framework for microservices
 - [googollee/go-engine.io](https://github.com/googollee/go-engine.io): 2017-02-24 <br/> engine.io for golang, a transport-based cross-browser/cross-device bi-directional communication layer.
 - [go-zoo/bone](https://github.com/go-zoo/bone): 2017-02-24 <br/> Lightning Fast HTTP Multiplexer
 - [dinever/golf](https://github.com/dinever/golf): 2017-02-24 <br/> :golf: The Golf web framework
@@ -154,6 +156,7 @@ The main purpose is reading / learning / teaching.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin): 1.83 MB<br/>  (1.41 MB git / 0.42 MB code)
 - [gernest/utron](https://github.com/gernest/utron): 1.40 MB<br/>  (1.33 MB git / 0.07 MB code)
 - [ant0ine/go-json-rest](https://github.com/ant0ine/go-json-rest): 1.20 MB<br/>  (1.04 MB git / 0.16 MB code)
+- [micro/go-micro](https://github.com/micro/go-micro): 1.16 MB<br/>  (0.86 MB git / 0.30 MB code)
 - [bmizerany/pat](https://github.com/bmizerany/pat): 1.02 MB<br/>  (1.00 MB git / 0.02 MB code)
 - [googollee/go-engine.io](https://github.com/googollee/go-engine.io): 0.86 MB<br/>  (0.66 MB git / 0.19 MB code)
 - [zpatrick/fireball](https://github.com/zpatrick/fireball): 0.84 MB<br/>  (0.78 MB git / 0.06 MB code)

@@ -38,6 +38,7 @@ https://github.com/julienschmidt/httprouter
 https://github.com/labstack/echo
 https://github.com/lunny/tango
 https://github.com/micro/micro
+https://github.com/micro/go-micro
 https://github.com/mustafaakin/gongular
 https://github.com/nytimes/gizmo
 https://github.com/paulbellamy/mango
