@@ -15,6 +15,11 @@ The main purpose is reading / learning / teaching.
 
     $ make crawl
 
+### Navigation
+
+- [By Size](#by-size)
+- [By Activity](#by-activity)
+
 ### Projects
 <!-- PROJECTS_LIST -->
 - [ant0ine/go-json-rest](https://github.com/ant0ine/go-json-rest) - A quick and easy way to setup a RESTful JSON API <br/> ( 2017-02-19 / 541 commits / 290 stars )
