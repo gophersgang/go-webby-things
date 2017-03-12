@@ -56,6 +56,7 @@ https://github.com/resoursea/api
 https://github.com/revel/revel
 https://github.com/rs/xmux
 https://github.com/sheng/air
+https://github.com/teambition/gear
 https://github.com/ungerik/go-rest
 https://github.com/vividcortex/siesta
 https://github.com/volatile/core
