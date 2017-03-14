@@ -8,11 +8,14 @@ https://github.com/buaazp/fasthttprouter
 https://github.com/claygod/bxog
 https://github.com/claygod/microservice
 https://github.com/codehack/go-relax
+https://github.com/codemodus/tote
 https://github.com/cosiner/zerver
 https://github.com/daryl/zeus
 https://github.com/desertbit/glue
 https://github.com/dimfeld/httptreemux
 https://github.com/dinever/golf
+https://github.com/eknkc/amber
+https://github.com/flosch/pongo2
 https://github.com/gernest/alien
 https://github.com/gernest/utron
 https://github.com/gin-gonic/gin
@@ -56,6 +59,7 @@ https://github.com/resoursea/api
 https://github.com/revel/revel
 https://github.com/rs/xmux
 https://github.com/sheng/air
+https://github.com/smotes/purse
 https://github.com/teambition/gear
 https://github.com/ungerik/go-rest
 https://github.com/vividcortex/siesta
